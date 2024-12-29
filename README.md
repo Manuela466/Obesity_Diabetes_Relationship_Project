@@ -72,7 +72,7 @@ The study visualizes how obesity rates correlate with diabetes in communities wi
 ---
 
 ## Access the Presentation
-- [Download the PowerPoint Presentation](Presentation/Obesity_Diabetes_relationship_project.pdf)
+- [Download the PowerPoint Presentation](Obesity_Diabetes_Relationship_project.pdf)
 
 
 ---
