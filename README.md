@@ -1,5 +1,8 @@
 # Exploring the Obesity-Diabetes Relationship in Black and Latin Communities
 
+# Access the Presentation
+- [Download the PowerPoint Presentation](Obesity_Diabetes_Relationship_project.pdf)
+
 ### Author:
 **Manuela Deigh**  
 Presented as part of the Data Science for the Public Good (DSPG) Program  
@@ -68,11 +71,6 @@ The study visualizes how obesity rates correlate with diabetes in communities wi
   While both groups show a heightened exposure, the extent of this risk appears to vary slightly.
   
 - Recognizing the unique health dynamics within different racial or ethnic communities, we can develop targeted strategies to prevent and manage diabetes effectively.
-
----
-
-## Access the Presentation
-- [Download the PowerPoint Presentation](Obesity_Diabetes_Relationship_project.pdf)
 
 
 ---
