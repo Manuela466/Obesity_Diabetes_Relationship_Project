@@ -1,7 +1,7 @@
 # Exploring the Obesity-Diabetes Relationship in Black and Latin Communities
 
-# Access the Presentation
-- [Download the PowerPoint Presentation](Obesity_Diabetes_Relationship_project.pdf)
+### Access the Presentation
+- [View the PowerPoint Presentation](Obesity_Diabetes_Relationship_project.pdf)
 
 ### Author:
 **Manuela Deigh**  
